@@ -8,9 +8,11 @@ Imports System.Web.Http.Filters
 Imports System.Web.Http.Results
 Imports Microsoft.IdentityModel.Tokens
 
-Public Class JwtAuthenticationAttribute
+Public MustInherit Class JwtAuthenticationBaseAttribute
     Inherits Attribute
     Implements IAuthenticationFilter
+
+    Protected MustOverride Function CheckRoles(claimsPrincipal As ClaimsPrincipal, rolesFromDatabase As List(Of String)) As Boolean
 
     Public Async Function AuthenticateAsync(context As HttpAuthenticationContext, cancellationToken As CancellationToken) As Task Implements IAuthenticationFilter.AuthenticateAsync
         Dim authHeader As AuthenticationHeaderValue = context.Request.Headers.Authorization
@@ -29,13 +31,10 @@ Public Class JwtAuthenticationAttribute
             Return
         End If
 
-
         Dim tokenHandler As New JwtSecurityTokenHandler()
         Dim keyString As String = "Beshin1298@"
-        Dim key As Byte() = Encoding.UTF8.GetBytes(keyString)
 
         Dim keyBytes As Byte() = Encoding.UTF8.GetBytes(keyString)
-
         If keyBytes.Length < 32 Then
             Dim paddedBytes As Byte() = New Byte(31) {}
             Buffer.BlockCopy(keyBytes, 0, paddedBytes, 0, keyBytes.Length)
@@ -53,6 +52,15 @@ Public Class JwtAuthenticationAttribute
         Try
             Dim claimsPrincipal As ClaimsPrincipal = tokenHandler.ValidateToken(tokenString, validationParameters, Nothing)
             context.Principal = claimsPrincipal
+
+            ' Lấy role từ cơ sở dữ liệu
+            Dim userId As Integer = GetUserIdFromClaims(claimsPrincipal)
+            Dim rolesFromDatabase As List(Of String) = Await GetRolesFromDatabaseAsync(userId)
+
+            If Not CheckRoles(claimsPrincipal, rolesFromDatabase) Then
+                context.ErrorResult = New UnauthorizedResult(New AuthenticationHeaderValue() {New AuthenticationHeaderValue("Bearer")}, context.Request)
+            End If
+
         Catch ex As SecurityTokenValidationException
             context.ErrorResult = New UnauthorizedResult(New AuthenticationHeaderValue() {New AuthenticationHeaderValue("Bearer")}, context.Request)
         End Try
@@ -69,12 +77,11 @@ Public Class JwtAuthenticationAttribute
     End Property
 
     Private Async Function GetTokenFromDatabaseAsync(token As String) As Task(Of String)
-
         Dim connectionString As String = ConfigurationManager.ConnectionStrings("database_demoConnectionString").ConnectionString
         Dim resultToken As String = Nothing
 
         Using connection As New SqlConnection(connectionString)
-            Dim query As String = "SELECT token FROM [tokens] WHERE token = @token"
+            Dim query As String = "SELECT token FROM [tokens] WHERE token = @token AND expiration > GETDATE()"
             Using command As New SqlCommand(query, connection)
                 command.Parameters.AddWithValue("@token", token)
 
@@ -88,5 +95,34 @@ Public Class JwtAuthenticationAttribute
         End Using
 
         Return resultToken
+    End Function
+
+    Private Function GetUserIdFromClaims(claimsPrincipal As ClaimsPrincipal) As Integer
+        Dim userIdClaim As Claim = claimsPrincipal.FindFirst(ClaimTypes.NameIdentifier)
+        If userIdClaim IsNot Nothing Then
+            Return Integer.Parse(userIdClaim.Value)
+        End If
+        Return 0
+    End Function
+
+    Private Async Function GetRolesFromDatabaseAsync(userId As Integer) As Task(Of List(Of String))
+        Dim connectionString As String = ConfigurationManager.ConnectionStrings("database_demoConnectionString").ConnectionString
+        Dim roles As New List(Of String)
+
+        Using connection As New SqlConnection(connectionString)
+            Dim query As String = "SELECT role FROM [users] WHERE ID = @userId"
+            Using command As New SqlCommand(query, connection)
+                command.Parameters.AddWithValue("@userId", userId)
+
+                Await connection.OpenAsync()
+                Using reader As SqlDataReader = Await command.ExecuteReaderAsync()
+                    While reader.Read()
+                        roles.Add(reader.GetString(0))
+                    End While
+                End Using
+            End Using
+        End Using
+
+        Return roles
     End Function
 End Class

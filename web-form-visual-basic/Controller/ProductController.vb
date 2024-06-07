@@ -2,11 +2,12 @@
 Imports System.Web.Http
 
 
-<JwtAuthentication>
+<JwtAuthenticationAttribute>
 Public Class ProductController
     Inherits ApiController
 
     ' GET api/<controller>
+
     Public Function GetValues() As IHttpActionResult
         Dim connectionString As String = ConfigurationManager.ConnectionStrings("database_demoConnectionString").ConnectionString
         Dim products As New List(Of Object)()
