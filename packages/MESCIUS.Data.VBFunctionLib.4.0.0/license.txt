@@ -1,0 +1,13 @@
+To use this package (including any packages on which it depends), you must agree to the license agreement for the software you are using. Please refer to the following page for the license agreement of the softwares (English products).
+
+https://developer.mescius.com/legal/eula
+
+If you have any questions about the license, please contact the software developer.
+
+==============================
+
+このパッケージ（依存関係にあるパッケージを含む）を使用するには、お客様が使用しようとしているソフトウェアの使用許諾契約書に同意いただく必要があります。ソフトウェア（日本語版製品）の使用許諾契約書については、以下のページをご覧ください。
+
+https://developer.mescius.jp/download/license
+
+ご不明な点がある場合には、ソフトウェアの開発元にお問い合わせください。

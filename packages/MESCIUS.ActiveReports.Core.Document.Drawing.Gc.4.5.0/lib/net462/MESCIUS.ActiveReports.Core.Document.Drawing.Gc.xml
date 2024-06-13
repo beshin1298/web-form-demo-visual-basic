@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+    <assembly>
+        <name>MESCIUS.ActiveReports.Core.Document.Drawing.Gc</name>
+    </assembly>
+    <members>
+        <member name="T:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.GcCanvasItemRenderer">
+            <summary>
+            For internal use only.
+            </summary>
+        </member>
+        <member name="P:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.GcCanvasItemRenderer.WithEudc">
+            <summary>
+            For internal use only. Loads EUDC settings from Windows registry.
+            </summary>
+        </member>
+        <member name="P:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.GcCanvasItemRenderer.UseHyperLinkSettings">
+            <summary>
+            For internal use only. Allows to use hyperlink settings.
+            </summary>
+        </member>
+        <member name="P:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.GcCanvasItemRenderer.FontStyleEmulation">
+            <summary>
+            For internal use only. Allows fonts bold/italic emulation.
+            </summary>
+        </member>
+        <member name="P:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.GcCanvasItemRenderer.AllowIvs">
+            <summary>
+            For internal use only. Allows IVS characters in output.
+            </summary>
+        </member>
+        <member name="P:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.GcCanvasItemRenderer.TextLayoutService">
+            <summary>
+            For internal use only. Gets corresponding service.
+            </summary>
+        </member>
+        <member name="P:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.GcCanvasItemRenderer.OnItemStart">
+            <summary>
+            For internal use only. Calls before any canvas item.
+            </summary>
+        </member>
+        <member name="P:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.GcCanvasItemRenderer.BeforeItemStart">
+            <summary>
+            For internal use only. Calls before any canvas item.
+            If return true canvas item will be ignored in render.
+            </summary>
+        </member>
+        <member name="P:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.GcCanvasItemRenderer.OnItemEnd">
+            <summary>
+            For internal use only. Calls after any canvas item.
+            </summary>
+        </member>
+        <member name="P:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.GcCanvasItemRenderer.ConvertToOpaque">
+            <summary>
+            For internal use only. Converts all transparent images to opaque.
+            </summary>
+        </member>
+        <member name="M:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.GcCanvasItemRenderer.#ctor(GrapeCity.Documents.Drawing.GcGraphics,GrapeCity.ActiveReports.Core.Document.Drawing.Gc.IDocumentFontsFactory,GrapeCity.ActiveReports.Core.Document.Drawing.Gc.GcCanvasItemRenderer.RendererSettings)">
+            <summary>
+            For internal use only.
+            </summary>
+        </member>
+        <member name="T:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.GcImageConverterService">
+            <summary>
+            Service for converting image data to another format through GcDoc.
+            </summary>
+        </member>
+        <member name="M:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.GcImageConverterService.Convert(System.IO.MemoryStream,GrapeCity.ActiveReports.Document.Drawing.Imaging.ImageFormat[],System.Boolean)">
+            <summary>
+            Converts image to one of allowed image format if needed.
+            </summary>
+            <param name="imageStream">A stream that contains the image data.</param>
+            <param name="allowedFormats">Allowed image formats. The conversion will not be performed if the image have one of these formats.</param>
+            The conversion will be performed to the first of these format If image format is not allowed.
+            <param name="fixRotation">Specifies whether to rotate the image according to the EXIF orientation.</param>
+            <returns>The ImageData struct which contains the data stream from which the image can be loaded and the format of the image.</returns>
+        </member>
+        <member name="T:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.LineBreakingAlgorithm">
+            <summary>
+            Choose line breaking algorithm.
+            </summary>
+        </member>
+        <member name="F:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.LineBreakingAlgorithm.Unicode">
+            <summary>
+            All rules from https://unicode.org/reports/tr14/.
+            </summary>
+        </member>
+        <member name="F:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.LineBreakingAlgorithm.Legacy">
+            <summary>
+            GDI-like.
+            </summary>
+        </member>
+        <member name="T:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.GcTextLayoutService">
+            <summary>
+            For internal use only.
+            </summary>
+        </member>
+        <member name="T:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.IDocumentFontsFactory">
+            <summary>
+            For internal use only.
+            </summary>
+        </member>
+        <member name="M:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.IDocumentFontsFactory.GetFonts(GrapeCity.ActiveReports.Document.Drawing.Font)">
+            <summary>
+            Map fonts.
+            </summary>
+        </member>
+        <member name="P:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.IDocumentFontsFactory.Scope">
+            <summary>
+            Allows access to system fonts or not.
+            </summary>
+        </member>
+        <member name="T:GrapeCity.ActiveReports.Core.Document.Drawing.Gc.IDocumentGlobalFontsProvider">
+            <summary>
+            Fonts factory.
+            For internal use only.
+            </summary>
+        </member>
+    </members>
+</doc>

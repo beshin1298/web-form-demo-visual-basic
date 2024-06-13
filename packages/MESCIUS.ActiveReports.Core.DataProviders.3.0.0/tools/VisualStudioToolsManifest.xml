@@ -1,0 +1,6 @@
+<FileList>
+  <File Reference = "MESCIUS.ActiveReports.Core.DataProviders.dll">
+    <ToolboxItems VSCategory="ActiveReports">
+    </ToolboxItems>
+  </File>
+</FileList>

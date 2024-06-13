@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\authenattribute\\jwtauthenticationattribute.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|c:\\users\\fanaticvn\\desktop\\demo\\web-form-visual-basic\\web-form-visual-basic\\authenattribute\\jwtauthenticationbaseattribute.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\authenattribute\\jwtauthenticationbaseattribute.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\authenattribute\\jwtauthenticationbaseattribute.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
@@ -19,11 +19,11 @@
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\controller\\authcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|c:\\users\\fanaticvn\\desktop\\demo\\web-form-visual-basic\\web-form-visual-basic\\authenattribute\\jwtrolesattribute.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\authenattribute\\jwtrolesattribute.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\authenattribute\\jwtrolesattribute.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|c:\\users\\fanaticvn\\desktop\\demo\\web-form-visual-basic\\web-form-visual-basic\\controller\\categorycontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\controller\\categorycontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\controller\\categorycontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
@@ -31,7 +31,7 @@
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|c:\\users\\fanaticvn\\desktop\\demo\\web-form-visual-basic\\web-form-visual-basic\\app_start\\filterconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\app_start\\filterconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\app_start\\filterconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
@@ -93,8 +93,7 @@
               "RelativeToolTip": "web-form-visual-basic\\App_Start\\FilterConfig.vb",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-07T04:01:11.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T04:01:11.893Z"
             },
             {
               "$type": "Document",
@@ -106,8 +105,7 @@
               "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\readme.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-06-07T03:57:07.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T03:57:07.014Z"
             },
             {
               "$type": "Document",
@@ -119,8 +117,7 @@
               "RelativeToolTip": "web-form-visual-basic\\Controller\\CategoryController.vb",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-07T03:57:06.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T03:57:06.675Z"
             },
             {
               "$type": "Document",
@@ -132,8 +129,7 @@
               "RelativeToolTip": "web-form-visual-basic\\AuthenAttribute\\JwtRolesAttribute.VB",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-07T03:54:08.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T03:54:08.183Z"
             },
             {
               "$type": "Document",
@@ -158,8 +154,7 @@
               "RelativeToolTip": "web-form-visual-basic\\packages.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-06T09:41:59.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T09:41:59.731Z"
             },
             {
               "$type": "Document",
@@ -171,8 +166,7 @@
               "RelativeToolTip": "web-form-visual-basic\\AuthenAttribute\\JwtAuthenticationBaseAttribute.vb",
               "ViewState": "AQIAAFwAAAAAAAAAAAAgwHAAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-06T08:38:46.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T08:38:46.167Z"
             },
             {
               "$type": "Document",
@@ -184,8 +178,7 @@
               "RelativeToolTip": "web-form-visual-basic\\Controller\\AuthController.vb",
               "ViewState": "AQIAAIMAAAAAAAAAAAAowIoAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-06T06:44:06.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T06:44:06.75Z"
             },
             {
               "$type": "Document",
@@ -197,8 +190,7 @@
               "RelativeToolTip": "web-form-visual-basic\\App_Start\\WebApiConfig.vb",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-05T08:35:31.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T08:35:31.336Z"
             },
             {
               "$type": "Document",
@@ -210,8 +202,7 @@
               "RelativeToolTip": "web-form-visual-basic\\Controller\\ProductController.vb",
               "ViewState": "AQIAACQAAAAAAAAAAAAowAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-05T08:24:15.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T08:24:15.259Z"
             },
             {
               "$type": "Document",
@@ -223,8 +214,7 @@
               "RelativeToolTip": "web-form-visual-basic\\App_Start\\RouteConfig.vb",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-05T07:46:07.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T07:46:07.946Z"
             },
             {
               "$type": "Document",
@@ -236,8 +226,7 @@
               "RelativeToolTip": "web-form-visual-basic\\App_Start\\BundleConfig.vb",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-05T07:33:12.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T07:33:12.241Z"
             },
             {
               "$type": "Document",
@@ -249,8 +238,7 @@
               "RelativeToolTip": "web-form-visual-basic\\Global.asax.vb",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-05T07:32:38.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T07:32:38.299Z"
             },
             {
               "$type": "Document",
@@ -262,8 +250,7 @@
               "RelativeToolTip": "packages\\Microsoft.AspNet.FriendlyUrls.1.0.2\\readme.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-06-05T07:31:01.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T07:31:01.092Z"
             },
             {
               "$type": "Document",
@@ -287,8 +274,7 @@
               "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Content\\bootstrap.css",
               "RelativeToolTip": "web-form-visual-basic\\Content\\bootstrap.css",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-05T03:48:02.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T03:48:02.478Z"
             },
             {
               "$type": "Document",
@@ -300,8 +286,7 @@
               "RelativeToolTip": "web-form-visual-basic\\Default.aspx.vb",
               "ViewState": "AQIAABYAAAAAAAAAAAAgwDIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-05T03:43:36.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T03:43:36.403Z"
             },
             {
               "$type": "Document",
@@ -313,8 +298,7 @@
               "RelativeToolTip": "web-form-visual-basic\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-05T03:34:33.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T03:34:33.921Z"
             }
           ]
         }

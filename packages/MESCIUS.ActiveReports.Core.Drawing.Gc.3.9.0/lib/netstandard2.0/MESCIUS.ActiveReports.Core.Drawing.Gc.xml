@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MESCIUS.ActiveReports.Core.Drawing.Gc</name>
+    </assembly>
+    <members>
+        <member name="T:GrapeCity.ActiveReports.Drawing.Core.Canvas.Converter">
+            <summary>
+            Converts twips to more usefull values with rounding.
+            </summary>
+        </member>
+        <member name="M:GrapeCity.ActiveReports.Drawing.Core.Canvas.Converter.FromValue(System.Single,System.Single)">
+            <summary>
+            Converts to Twips.
+            </summary>
+        </member>
+        <member name="M:GrapeCity.ActiveReports.Drawing.Core.Canvas.Converter.ToValue(System.Single,System.Single)">
+            <summary>
+            Converts from Twips.
+            </summary>
+        </member>
+        <member name="M:GrapeCity.ActiveReports.Drawing.Core.Canvas.Converter.ToPoint(System.Numerics.Vector2,System.Single)">
+            <summary>
+            Converts from Twips.
+            </summary>
+        </member>
+        <member name="M:GrapeCity.ActiveReports.Drawing.Core.Canvas.Converter.ToPoint(System.Drawing.PointF,System.Single)">
+            <summary>
+            Converts from Twips.
+            </summary>
+        </member>
+        <member name="M:GrapeCity.ActiveReports.Drawing.Core.Canvas.Converter.ToSize(System.Drawing.SizeF,System.Single)">
+            <summary>
+            Converts from Twips.
+            </summary>
+        </member>
+        <member name="M:GrapeCity.ActiveReports.Drawing.Core.Canvas.Converter.ToRect(System.Drawing.RectangleF,System.Single)">
+            <summary>
+            Converts from Twips.
+            </summary>
+        </member>
+        <member name="T:GrapeCity.ActiveReports.Drawing.Core.FontsFactory">
+            <summary>
+            External fonts factory.
+            </summary>
+        </member>
+        <member name="F:GrapeCity.ActiveReports.Drawing.Core.FontsFactory.Instance">
+            <summary>
+            Default instance.
+            </summary>
+        </member>
+        <member name="M:GrapeCity.ActiveReports.Drawing.Core.FontsFactory.#ctor(System.Boolean,System.Collections.Generic.IEnumerable{System.String},System.Func{GrapeCity.Documents.Text.Font,System.Boolean},System.Boolean)">
+            <summary>
+            Creates new FontsFactory
+            </summary>
+            <param name="withEudc"></param>
+            <param name="fallbackFonts"></param>
+            <param name="allowFont"></param>
+            <param name="enableFontCaching">Enable caching font tables. It is necessary for optimize the rendering of text in design time.</param>
+        </member>
+        <member name="M:GrapeCity.ActiveReports.Drawing.Core.FontsFactory.AddFontToTable(GrapeCity.Documents.Text.Font)">
+            <summary>
+            Creates a font table and store it so that the garbage collector does not destroy it.
+            </summary>
+            <param name="font"></param>
+        </member>
+        <member name="T:GrapeCity.ActiveReports.Drawing.Core.IFontsFactory">
+            <summary>
+            Fonts factory.
+            For internal use only.
+            </summary>
+        </member>
+        <member name="T:GrapeCity.ActiveReports.Drawing.Core.IGlobalFontsProvider">
+            <summary>
+            All available fonts provider.
+            For internal use only.
+            </summary>
+        </member>
+        <member name="T:GrapeCity.ActiveReports.Drawing.Core.IFontScope">
+            <summary>
+            For internal use only
+            </summary>
+        </member>
+        <member name="T:GrapeCity.ActiveReports.Drawing.Core.GraphicsCanvas">
+            <summary>
+            Simple implementation of base canvas things.
+            </summary>
+        </member>
+        <member name="T:GrapeCity.ActiveReports.Drawing.Core.GraphicsCanvas.CanvasSettings">
+            <summary>
+            Setting to create a new canvas.
+            </summary>
+        </member>
+        <member name="T:GrapeCity.ActiveReports.Drawing.Core.ImageManager">
+            <summary>
+            Image manager to process/cache images.
+            </summary>
+        </member>
+        <member name="M:GrapeCity.ActiveReports.Drawing.Core.ImageManager.LoadGcImage(GrapeCity.ActiveReports.Extensibility.Rendering.ImageInfo,System.String)">
+            <summary>
+            Loader to load images.
+            </summary>
+        </member>
+        <member name="T:GrapeCity.ActiveReports.Drawing.Core.LineBreakingAlgorithm">
+            <summary>
+            Choose line breaking algorithm.
+            </summary>
+        </member>
+        <member name="F:GrapeCity.ActiveReports.Drawing.Core.LineBreakingAlgorithm.Unicode">
+            <summary>
+            All rules from https://unicode.org/reports/tr14/.
+            </summary>
+        </member>
+        <member name="F:GrapeCity.ActiveReports.Drawing.Core.LineBreakingAlgorithm.Legacy">
+            <summary>
+            GDI-like.
+            </summary>
+        </member>
+        <member name="F:GrapeCity.ActiveReports.Drawing.Core.EmulateFontStyle.Always">
+            <summary>
+            Force font style emulation if necessary.
+            </summary>
+        </member>
+        <member name="F:GrapeCity.ActiveReports.Drawing.Core.EmulateFontStyle.Never">
+            <summary>
+            Avoid font style emulation.
+            </summary>
+        </member>
+        <member name="T:GrapeCity.ActiveReports.Drawing.Core.TextMetricsProvider">
+            <summary>
+            Encapsulates string measurements and related functionality using the system graphics.
+            </summary>
+        </member>
+        <member name="F:GrapeCity.ActiveReports.Drawing.Core.TextMetricsProvider.Default">
+            <summary>
+            Default metrics provider with system fonts.
+            </summary>
+        </member>
+        <member name="T:GrapeCity.ActiveReports.Drawing.Core.TextMetricsProvider.TextSettings">
+            <summary>
+            Setting to create a new provider.
+            </summary>
+        </member>
+        <member name="F:GrapeCity.ActiveReports.Drawing.Core.TextMetricsProvider.DefaultSettings">
+            <summary> Default text metrics provider settings. </summary>
+        </member>
+        <member name="M:GrapeCity.ActiveReports.Drawing.Core.TextMetricsProvider.GetMetricsVer(GrapeCity.Documents.Text.TextLayout,System.String,System.Single)">
+            <summary>
+            Gets metrics from text layout for vertical text.
+            </summary>
+        </member>
+        <member name="M:GrapeCity.ActiveReports.Drawing.Core.TextMetricsProvider.GetMetricsHor(GrapeCity.Documents.Text.TextLayout,System.String,System.Single,System.Single)">
+            <summary>
+            Gets metrics from text layout for horizontal text.
+            </summary>
+        </member>
+        <member name="M:GrapeCity.ActiveReports.Drawing.Core.TextMetricsProvider.ToMeasurementFormat(GrapeCity.ActiveReports.Drawing.StringFormatEx)">
+            <summary>
+            Resets undesired for measurement format properties
+            </summary>
+            <param name="format"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

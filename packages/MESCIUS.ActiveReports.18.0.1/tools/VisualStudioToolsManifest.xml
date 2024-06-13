@@ -1,0 +1,10 @@
+<FileList>
+  <File Reference = "MESCIUS.ActiveReports.dll">
+    <ToolboxItems VSCategory="ActiveReports 18">
+    </ToolboxItems>
+  </File>
+  <File Reference = "MESCIUS.ActiveReports.Win.dll">
+    <ToolboxItems VSCategory="ActiveReports 18">
+    </ToolboxItems>
+  </File>
+</FileList>
