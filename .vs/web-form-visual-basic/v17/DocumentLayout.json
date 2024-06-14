@@ -3,75 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|c:\\users\\fanaticvn\\desktop\\demo\\web-form-visual-basic\\web-form-visual-basic\\authenattribute\\jwtauthenticationattribute.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\authenattribute\\jwtauthenticationattribute.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|c:\\users\\fanaticvn\\desktop\\demo\\web-form-visual-basic\\web-form-visual-basic\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\authenattribute\\jwtauthenticationbaseattribute.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\authenattribute\\jwtauthenticationbaseattribute.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\controller\\productcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\controller\\productcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\controller\\authcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\controller\\authcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\authenattribute\\jwtrolesattribute.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\authenattribute\\jwtrolesattribute.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\controller\\categorycontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\controller\\categorycontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\app_start\\filterconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\app_start\\filterconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|c:\\users\\fanaticvn\\desktop\\demo\\web-form-visual-basic\\web-form-visual-basic\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FanaticVn\\AppData\\Local\\Temp\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|c:\\users\\fanaticvn\\desktop\\demo\\web-form-visual-basic\\web-form-visual-basic\\controller\\productcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\controller\\productcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\app_start\\webapiconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\app_start\\webapiconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\global.asax.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\global.asax.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\app_start\\bundleconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\app_start\\bundleconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\default.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\default.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\app_start\\routeconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\app_start\\routeconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\packages\\Microsoft.AspNet.FriendlyUrls.1.0.2\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\Microsoft.AspNet.FriendlyUrls.1.0.2\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\content\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|c:\\users\\fanaticvn\\desktop\\demo\\web-form-visual-basic\\web-form-visual-basic\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}|web-form-visual-basic\\web-form-visual-basic.vbproj|solutionrelative:web-form-visual-basic\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -81,116 +26,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FilterConfig.vb",
-              "DocumentMoniker": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\App_Start\\FilterConfig.vb",
-              "RelativeDocumentMoniker": "web-form-visual-basic\\App_Start\\FilterConfig.vb",
-              "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\App_Start\\FilterConfig.vb",
-              "RelativeToolTip": "web-form-visual-basic\\App_Start\\FilterConfig.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-07T04:01:11.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "readme.txt",
-              "DocumentMoniker": "C:\\Users\\FanaticVn\\AppData\\Local\\Temp\\readme.txt",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\readme.txt",
-              "ToolTip": "C:\\Users\\FanaticVn\\AppData\\Local\\Temp\\readme.txt",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\readme.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-06-07T03:57:07.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryController.vb",
-              "DocumentMoniker": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Controller\\CategoryController.vb",
-              "RelativeDocumentMoniker": "web-form-visual-basic\\Controller\\CategoryController.vb",
-              "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Controller\\CategoryController.vb",
-              "RelativeToolTip": "web-form-visual-basic\\Controller\\CategoryController.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-07T03:57:06.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "JwtRolesAttribute.VB",
-              "DocumentMoniker": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\AuthenAttribute\\JwtRolesAttribute.VB",
-              "RelativeDocumentMoniker": "web-form-visual-basic\\AuthenAttribute\\JwtRolesAttribute.VB",
-              "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\AuthenAttribute\\JwtRolesAttribute.VB",
-              "RelativeToolTip": "web-form-visual-basic\\AuthenAttribute\\JwtRolesAttribute.VB",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-07T03:54:08.183Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JwtAuthenticationAttribute.vb",
-              "DocumentMoniker": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\AuthenAttribute\\JwtAuthenticationAttribute.vb",
-              "RelativeDocumentMoniker": "web-form-visual-basic\\AuthenAttribute\\JwtAuthenticationAttribute.vb",
-              "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\AuthenAttribute\\JwtAuthenticationAttribute.vb",
-              "RelativeToolTip": "web-form-visual-basic\\AuthenAttribute\\JwtAuthenticationAttribute.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-07T03:33:30.046Z",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Web.config",
+              "RelativeDocumentMoniker": "web-form-visual-basic\\Web.config",
+              "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Web.config",
+              "RelativeToolTip": "web-form-visual-basic\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-14T09:41:52.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\packages.config",
-              "RelativeDocumentMoniker": "web-form-visual-basic\\packages.config",
-              "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\packages.config",
-              "RelativeToolTip": "web-form-visual-basic\\packages.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-06T09:41:59.731Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JwtAuthenticationBaseAttribute.vb",
-              "DocumentMoniker": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\AuthenAttribute\\JwtAuthenticationBaseAttribute.vb",
-              "RelativeDocumentMoniker": "web-form-visual-basic\\AuthenAttribute\\JwtAuthenticationBaseAttribute.vb",
-              "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\AuthenAttribute\\JwtAuthenticationBaseAttribute.vb",
-              "RelativeToolTip": "web-form-visual-basic\\AuthenAttribute\\JwtAuthenticationBaseAttribute.vb",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAgwHAAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-06T08:38:46.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthController.vb",
-              "DocumentMoniker": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Controller\\AuthController.vb",
-              "RelativeDocumentMoniker": "web-form-visual-basic\\Controller\\AuthController.vb",
-              "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Controller\\AuthController.vb",
-              "RelativeToolTip": "web-form-visual-basic\\Controller\\AuthController.vb",
-              "ViewState": "AQIAAIMAAAAAAAAAAAAowIoAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-06T06:44:06.75Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "WebApiConfig.vb",
-              "DocumentMoniker": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\App_Start\\WebApiConfig.vb",
-              "RelativeDocumentMoniker": "web-form-visual-basic\\App_Start\\WebApiConfig.vb",
-              "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\App_Start\\WebApiConfig.vb",
-              "RelativeToolTip": "web-form-visual-basic\\App_Start\\WebApiConfig.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-05T08:35:31.336Z"
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Dockerfile",
+              "RelativeDocumentMoniker": "web-form-visual-basic\\Dockerfile",
+              "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Dockerfile",
+              "RelativeToolTip": "web-form-visual-basic\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-14T08:46:12.124Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -200,105 +62,23 @@
               "RelativeDocumentMoniker": "web-form-visual-basic\\Controller\\ProductController.vb",
               "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Controller\\ProductController.vb",
               "RelativeToolTip": "web-form-visual-basic\\Controller\\ProductController.vb",
-              "ViewState": "AQIAACQAAAAAAAAAAAAowAQAAAAAAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAGYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-05T08:24:15.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "RouteConfig.vb",
-              "DocumentMoniker": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\App_Start\\RouteConfig.vb",
-              "RelativeDocumentMoniker": "web-form-visual-basic\\App_Start\\RouteConfig.vb",
-              "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\App_Start\\RouteConfig.vb",
-              "RelativeToolTip": "web-form-visual-basic\\App_Start\\RouteConfig.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-05T07:46:07.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BundleConfig.vb",
-              "DocumentMoniker": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\App_Start\\BundleConfig.vb",
-              "RelativeDocumentMoniker": "web-form-visual-basic\\App_Start\\BundleConfig.vb",
-              "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\App_Start\\BundleConfig.vb",
-              "RelativeToolTip": "web-form-visual-basic\\App_Start\\BundleConfig.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-05T07:33:12.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Global.asax.vb",
-              "DocumentMoniker": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Global.asax.vb",
-              "RelativeDocumentMoniker": "web-form-visual-basic\\Global.asax.vb",
-              "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Global.asax.vb",
-              "RelativeToolTip": "web-form-visual-basic\\Global.asax.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-05T07:32:38.299Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "readme.txt",
-              "DocumentMoniker": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\packages\\Microsoft.AspNet.FriendlyUrls.1.0.2\\readme.txt",
-              "RelativeDocumentMoniker": "packages\\Microsoft.AspNet.FriendlyUrls.1.0.2\\readme.txt",
-              "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\packages\\Microsoft.AspNet.FriendlyUrls.1.0.2\\readme.txt",
-              "RelativeToolTip": "packages\\Microsoft.AspNet.FriendlyUrls.1.0.2\\readme.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-06-05T07:31:01.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Web.config",
-              "RelativeDocumentMoniker": "web-form-visual-basic\\Web.config",
-              "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Web.config",
-              "RelativeToolTip": "web-form-visual-basic\\Web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-06-05T03:51:41.087Z",
+              "WhenOpened": "2024-06-14T03:19:10.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Content\\bootstrap.css",
-              "RelativeDocumentMoniker": "web-form-visual-basic\\Content\\bootstrap.css",
-              "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Content\\bootstrap.css",
-              "RelativeToolTip": "web-form-visual-basic\\Content\\bootstrap.css",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-05T03:48:02.478Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Default.aspx.vb",
-              "DocumentMoniker": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Default.aspx.vb",
-              "RelativeDocumentMoniker": "web-form-visual-basic\\Default.aspx.vb",
-              "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Default.aspx.vb",
-              "RelativeToolTip": "web-form-visual-basic\\Default.aspx.vb",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwDIAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-06-05T03:43:36.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Default.aspx",
-              "DocumentMoniker": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Default.aspx",
-              "RelativeDocumentMoniker": "web-form-visual-basic\\Default.aspx",
-              "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Default.aspx",
-              "RelativeToolTip": "web-form-visual-basic\\Default.aspx",
+              "DocumentIndex": 3,
+              "Title": "Product.aspx",
+              "DocumentMoniker": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Product.aspx",
+              "RelativeDocumentMoniker": "web-form-visual-basic\\Product.aspx",
+              "ToolTip": "C:\\Users\\FanaticVn\\Desktop\\Demo\\web-form-visual-basic\\web-form-visual-basic\\Product.aspx",
+              "RelativeToolTip": "web-form-visual-basic\\Product.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-05T03:34:33.921Z"
+              "WhenOpened": "2024-06-14T02:48:59.213Z",
+              "EditorCaption": ""
             }
           ]
         }

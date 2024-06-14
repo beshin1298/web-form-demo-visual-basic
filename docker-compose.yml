@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  web-form-visual-basic:
+    image: ${DOCKER_REGISTRY-}webformvisualbasic
+    build:
+      context: web-form-visual-basic
+      dockerfile: Dockerfile

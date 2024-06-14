@@ -1,0 +1,16 @@
+name: dockercompose16250476752906371682
+services:
+  web-form-visual-basic:
+    build:
+      context: C:\Users\FanaticVn\Desktop\Demo\web-form-visual-basic\web-form-visual-basic
+      dockerfile: Dockerfile
+    image: webformvisualbasic
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose16250476752906371682_default
